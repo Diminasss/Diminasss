@@ -20,7 +20,7 @@ I'm a **C++ Systems Developer** specializing in Linux-based software, network pr
 
 My professional experience involves developing and maintaining components of mobile network infrastructure, working with asynchronous communication, stateful network protocols, and complex production codebases.
 
-- 🔭 **Currently working on:** Linux-based telecommunications software using C++17/20
+- 🔭 **Currently working on:** Linux-based telecommunications software using C++17/20/23
 - ⚙️ **Experience with:** Network programming, asynchronous I/O, multithreading, protocol implementation, and debugging
 - 🔬 **Currently exploring:** Linux internals, eBPF, performance profiling, and distributed systems
 - 🎓 **Education:** MSc student at ITMO University; BSc in Applied Informatics from SUAI
