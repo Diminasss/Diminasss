@@ -33,7 +33,7 @@ My professional experience involves developing and maintaining components of mob
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,bash&theme=dark" alt="C++, Python, Golang, Bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,golang,bash&theme=dark" alt="C++, Python, Golang, Bash" />
 </p>
 
 ### Systems & Development Tools
