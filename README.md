@@ -59,17 +59,6 @@ My professional experience involves developing and maintaining components of mob
 
 ---
 
-## 🚀 Areas of Interest
-
-- High-performance network services
-- Linux systems programming
-- Performance profiling and optimization
-- Concurrent and asynchronous architectures
-- Distributed systems
-- Reliable and maintainable C++ software
-
----
-
 <div align="center">
 
   *Your time true story everything is okay life together* - Steve Jobs
