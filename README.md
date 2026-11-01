@@ -2,7 +2,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=760&height=80&lines=Dmitry+Nikitin"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=760&height=80&lines=Dmitry"
     alt="Dmitry"
   />
 
