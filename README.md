@@ -72,6 +72,6 @@ My professional experience involves developing and maintaining components of mob
 
 <div align="center">
 
-  *Always learning. Always building.*
+  *Your time true story everything is okay life together* - Steve Jobs
 
 </div>
